@@ -1,0 +1,3 @@
+[submodule "cloud-slides"]
+	path = cloud-slides
+	url = git@github.com:cbliard/cloud-slides.git
